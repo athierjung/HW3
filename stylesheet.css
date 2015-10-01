@@ -1,0 +1,28 @@
+body {
+	background-color:Silver;
+	color:black;
+	
+}
+
+
+h1 {
+	text-align:center;
+	color:black; 	
+	font-size: 3em; 
+	font-weight:bold; 
+	font-variant:small-caps;
+}
+
+
+table, td {
+	
+	border: 1px solid black;
+	
+}
+
+td {
+	
+	padding: 15px;
+}
+
+
