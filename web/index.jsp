@@ -13,19 +13,10 @@
         <title>Salary Calculator</title>
     </head>
     
-    <%
-    
-        
-        
-        
-        
-    
-    %>
-    
     <body>
         <h1>Simple Salary Calculator</h1>
         
-        <form name="salaryInfo" action="results.jsp" method="post">
+        <form name="salaryInput" action="results.jsp" method="post">
             <table>
                 <tbody>
                     <tr>
